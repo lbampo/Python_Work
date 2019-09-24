@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="297bf4af-d6bc-4a20-b14b-de02ea7a658f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/105_data_type_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/105_data_type_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_5.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.108_for_loop">
+  <component name="RunManager" selected="Python.Exercise_7">
     <configuration name="105_data_type_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercise_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="109_if_statements" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/109_if_statements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercise_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercise_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise_7" />
+        <item itemvalue="Python.109_if_statements" />
         <item itemvalue="Python.108_for_loop" />
         <item itemvalue="Python.107_dictionaires_nest" />
         <item itemvalue="Python.105_data_type_list" />
-        <item itemvalue="Python.Exercise_5" />
-        <item itemvalue="Python.Exercise_6" />
       </list>
     </recent_temporary>
   </component>
