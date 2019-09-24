@@ -24,4 +24,4 @@ skillset = [skill_1, skill_2, skill_3]
 #print(skillset)
 
 # Print each skill in a formatted way
-print(f'\n \n WOOOOOOW, so you are telling me you can {skill_1}? \n And not only that.. but you can {skill_2} and {skill_3} as well? \n God definitely took his time with you \n \n You Single?')
+print(f'\n \n WOOOOOOW, so you are telling me your skill is {skill_1}? \n And not only that.. but also {skill_2} and {skill_3} as well? \n God definitely took his time with you \n \n You Single?')

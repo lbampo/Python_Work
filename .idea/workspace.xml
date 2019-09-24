@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="297bf4af-d6bc-4a20-b14b-de02ea7a658f" name="Default Changelist" comment="" />
+    <list default="true" id="297bf4af-d6bc-4a20-b14b-de02ea7a658f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/105_data_type_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/105_data_type_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_5.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +19,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1REgnZPoOeYXPDF2P8EEkO1BsSa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercise_6">
+  <component name="RunManager" selected="Python.108_for_loop">
     <configuration name="105_data_type_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Example_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="107_dictionaires_nest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Example_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/107_dictionaires_nest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercise_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="108_for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/108_for_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercise_6" />
-        <item itemvalue="Python.Exercise_5" />
+        <item itemvalue="Python.108_for_loop" />
+        <item itemvalue="Python.107_dictionaires_nest" />
         <item itemvalue="Python.105_data_type_list" />
-        <item itemvalue="Python.Example_4" />
-        <item itemvalue="Python.Exercise_3" />
+        <item itemvalue="Python.Exercise_5" />
+        <item itemvalue="Python.Exercise_6" />
       </list>
     </recent_temporary>
   </component>
@@ -156,5 +167,18 @@
       <updated>1569237836557</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
