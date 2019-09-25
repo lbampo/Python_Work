@@ -23,6 +23,7 @@
   <component name="ProjectId" id="1REgnZPoOeYXPDF2P8EEkO1BsSa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -37,28 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercise_7">
-    <configuration name="105_data_type_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Class_exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/105_data_type_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Exercise_10">
     <configuration name="107_dictionaires_nest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="108_for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="110_while_loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/108_for_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/110_while_loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="109_if_statements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercise_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/109_if_statements.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercise_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercise_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +114,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Class_exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercise_7" />
-        <item itemvalue="Python.109_if_statements" />
-        <item itemvalue="Python.108_for_loop" />
+        <item itemvalue="Python.Exercise_10" />
+        <item itemvalue="Python.Exercise_8" />
+        <item itemvalue="Python.Exercise_9" />
         <item itemvalue="Python.107_dictionaires_nest" />
-        <item itemvalue="Python.105_data_type_list" />
+        <item itemvalue="Python.110_while_loops" />
       </list>
     </recent_temporary>
   </component>
